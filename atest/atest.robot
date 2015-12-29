@@ -1,7 +1,5 @@
 *** Settings ***
-Library    /home/nfs/PycharmProjects/LDTPRemoteLibrary/src/LDTPLibrary
-#Resource    LDTPLibrary/keywords/high-level-keywords_zh.robot
-#Resource    LDTPLibrary/keywords/high-level-keywords_en.robot
+Library    LDTPLibrary
 
 *** Variables ***
 ${window}    frmCalculator
